@@ -1,1 +1,1 @@
-Print float
+ Play with strings
