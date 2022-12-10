@@ -1,1 +1,1 @@
-Squared simple
+Delete by value
