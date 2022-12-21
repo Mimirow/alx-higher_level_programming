@@ -1,1 +1,1 @@
-My first square
+Printing a square
