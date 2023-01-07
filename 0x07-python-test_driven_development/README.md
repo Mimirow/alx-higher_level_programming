@@ -1,1 +1,1 @@
-Integers addition
+CPython #3: Python Strings
