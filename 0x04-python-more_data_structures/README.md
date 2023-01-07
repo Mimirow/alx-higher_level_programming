@@ -1,1 +1,1 @@
-Delete by value
+Simple delete by key
